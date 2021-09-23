@@ -1,0 +1,5 @@
+asgiref==3.4.1
+Django==3.2.7
+mysql-connector-python @ http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.0.4.zip
+pytz==2021.1
+sqlparse==0.4.2
